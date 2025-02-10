@@ -1,0 +1,9 @@
+income,extra,10.0,2025-02-10
+expense,food,3.0,2025-02-10
+income,extra,10.0,2025-02-10
+expense,food,3.0,2025-02-10
+income,extra,10.0,2025-02-10
+expense,food,3.0,2025-02-10
+income,extra,10.0,2025-02-10
+expense,food,3.0,2025-02-10
+expense,extra,2.0,2025-02-10
